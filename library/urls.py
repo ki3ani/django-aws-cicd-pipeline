@@ -8,3 +8,5 @@ urlpatterns = [
     path('debug/', debug_view, name='debug_view'),
     path('', home, name='home'),
 ]
+
+
