@@ -7,6 +7,7 @@ urlpatterns = [
     path('books/<int:pk>', views.BookDetail.as_view(), name='book_detail'), # new
     path('debug/', debug_view, name='debug_view'),
     path('', home, name='home'),
+    
 ]
 
 
