@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-m((w4=53vt!b^o216$q#bgedadrag*f^rf72&%up*&9#t$%bd4
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['readwithmeenv.eba-8hrpumnr.us-west-1.elasticbeanstalk.com','127.0.0.1','172.31.3.183'] # new
+ALLOWED_HOSTS = ['*'] # new
 
 
 
