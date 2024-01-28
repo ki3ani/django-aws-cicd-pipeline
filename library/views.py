@@ -23,3 +23,9 @@ def debug_view(request):
 
     # Rest of your view code (or just return a simple response for testing)
     return HttpResponse("Debug view response")
+
+
+def health_check(request):
+    # Your health check logic goes here
+    return HttpResponse("OK")
+
