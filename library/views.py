@@ -2,6 +2,7 @@ from .models import Book
 from rest_framework import generics
 from .serializers import BookSerializer
 from django.http import HttpResponse
+from django.shortcuts import render
 
 
 # Create your views here.
@@ -25,7 +26,6 @@ def debug_view(request):
     return HttpResponse("Debug view response")
 
 
-def health_check(request):
-    # Your health check logic goes here
-    return HttpResponse("OK")
 
+def home(request):
+    return render(request, 'home.html')  # Assuming you have a template named 'home.html'
