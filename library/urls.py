@@ -11,4 +11,5 @@ urlpatterns = [
     path('reviews/<int:pk>', views.ReviewDetail.as_view(), name='review_detail'),
     path('debug/', debug_view, name='debug_view'),
     path('', home, name='home'),
+    
 ]
