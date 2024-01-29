@@ -1,0 +1,23 @@
+[
+    {"name": "John Green", "bio": "Bestselling author of 'The Fault in Our Stars' and 'Looking for Alaska'. Known for his poignant and emotionally resonant young adult novels."},
+    {"name": "J.K. Rowling", "bio": "Renowned British author, creator of the 'Harry Potter' series. Her magical world captivates readers of all ages."},
+    {"name": "Stephen King", "bio": "Master of horror and suspense, Stephen King has written numerous bestsellers, including 'The Shining', 'It', and 'Carrie'."},
+    {"name": "Haruki Murakami", "bio": "Japanese author known for his surreal and imaginative storytelling. Works include 'Norwegian Wood' and 'Kafka on the Shore'."},
+    {"name": "Chimamanda Ngozi Adichie", "bio": "Nigerian author and feminist known for her novels 'Half of a Yellow Sun' and 'Americanah'. A powerful voice in contemporary literature."},
+    {"name": "Jane Austen", "bio": "Classic English novelist known for her timeless works such as 'Pride and Prejudice' and 'Sense and Sensibility'."},
+    {"name": "Gabriel García Márquez", "bio": "Colombian author and Nobel Prize winner, famous for his magical realism. Notable works include 'One Hundred Years of Solitude'."},
+    {"name": "Margaret Atwood", "bio": "Canadian author acclaimed for dystopian novels like 'The Handmaid's Tale'. A prominent voice in feminist literature."},
+    {"name": "George Orwell", "bio": "English novelist and essayist known for political allegories like 'Animal Farm' and the dystopian classic '1984'."},
+    {"name": "Agatha Christie", "bio": "Queen of mystery and detective fiction, Agatha Christie is the best-selling novelist of all time. Famous for characters like Hercule Poirot and Miss Marple."},
+    {"name": "Ernest Hemingway", "bio": "Nobel Prize-winning American novelist and short story writer. Notable works include 'The Old Man and the Sea' and 'A Farewell to Arms'."},
+    {"name": "Maya Angelou", "bio": "Renowned American poet, memoirist, and civil rights activist. Her autobiographical work 'I Know Why the Caged Bird Sings' is a classic."},
+    {"name": "Toni Morrison", "bio": "Nobel Prize-winning American novelist celebrated for works like 'Beloved' and 'Song of Solomon'. A leading voice in African American literature."},
+    {"name": "Gabriel Garcia Bernal", "bio": "Chilean author and director known for his works exploring themes of identity, politics, and social issues."},
+    {"name": "J.R.R. Tolkien", "bio": "English writer and philologist, creator of the epic fantasy world of Middle-earth. Famous for 'The Hobbit' and 'The Lord of the Rings' trilogy."},
+    {"name": "Leo Tolstoy", "bio": "Russian author and philosopher, best known for his novels 'War and Peace' and 'Anna Karenina'. A key figure in world literature."},
+    {"name": "Alice Walker", "bio": "American novelist and activist, famous for 'The Color Purple'. Her works often address issues of race, gender, and social justice."},
+    {"name": "Kazuo Ishiguro", "bio": "Nobel Prize-winning British author known for his poignant novels such as 'Never Let Me Go' and 'The Remains of the Day'."},
+    {"name": "Herman Melville", "bio": "American author best known for his masterpiece 'Moby-Dick'. His works explore themes of obsession, morality, and the human condition."},
+    {"name": "Virginia Woolf", "bio": "English writer and modernist, known for her novels 'Mrs. Dalloway' and 'To the Lighthouse'. A pioneer of stream-of-consciousness writing."},
+    {"name": "Mark Twain", "bio": "Iconic American author and humorist, famous for 'The Adventures of Tom Sawyer' and 'Adventures of Huckleberry Finn'. A literary giant of the 19th century."}
+]
