@@ -5,6 +5,7 @@ from django.http import HttpResponse
 from django.shortcuts import render
 
 # Create your views here.
+##schema 
 class AuthorView(generics.ListCreateAPIView):
     queryset = Author.objects.all()
     serializer_class = AuthorSerializer
